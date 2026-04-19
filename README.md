@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Alexandre from Switzerland<br><br>- 🔭 I’m working as a CyberSecurity Student<br>- 📚 I'm currently learning various hardening techniques on Linux <br>- ⚡ Passionate about forensic analysis. </p>
+<p align="left">I'm Alex <br><br>- 🔭 I’m working as a CyberSecurity Student<br>- 📚 I'm currently learning various hardening techniques on Linux <br>- ⚡ Passionate about forensic analysis. </p>
 
 ###
 
